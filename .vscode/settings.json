@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 24,
+    "github.copilot.enable": {
+        "*": false,
+    },
+}
